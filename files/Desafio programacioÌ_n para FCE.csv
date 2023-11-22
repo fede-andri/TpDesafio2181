@@ -1,0 +1,20 @@
+Fecha,RUT,Cliente,Domicilio,Forma de pago,Comprobante,Moneda,Importe,Tasa IVA
+2023-10-25,179567177703,Disco,18 de Julio 1234; Montevideo,contado,eFactura A 2345,UYU,500,TE
+2023-10-25,179567177703,Disco,18 de Julio 1234; Montevideo,contado,eFactura A 2345,UYU,900,TM
+2023-10-25,179567177703,Disco,18 de Julio 1234; Montevideo,contado,eFactura A 2345,UYU,489,TE
+2023-10-25,179567177703,Disco,18 de Julio 1234; Montevideo,contado,eFactura A 2345,UYU,4381,TB
+2023-10-25,179567177703,Disco,18 de Julio 1234; Montevideo,contado,eFactura A 2345,UYU,2131,TB
+2023-10-25,120434177741,UCU,8 de Octubre 1111; Montevideo,contado,eFactura A 1234,USD,5000,TB
+2023-10-25,120434177741,UCU,8 de Octubre 1111; Montevideo,contado,eFactura A 1234,USD,250,TB
+2023-10-25,171196946698,Divino,Av 1234; Colonia,credito,eFactura A 789,USD,2000,TB
+2023-10-25,171196946698,Divino,Av 1234; Colonia,credito,eFactura A 789,USD,240,TE
+2023-10-24,179567177703,Disco,18 de Julio 1234; Montevideo,contado,eFactura A 2355,UYU,500,TE
+2023-10-24,179567177703,Disco,18 de Julio 1234; Montevideo,contado,eFactura A 2355,UYU,900,TM
+2023-10-24,179567177703,Disco,18 de Julio 1234; Montevideo,contado,eFactura A 2355,UYU,489,TE
+2023-10-23,179567177703,Disco,18 de Julio 1234; Montevideo,contado,eFactura A 2342,UYU,4381,TB
+2023-10-23,179567177703,Disco,18 de Julio 1234; Montevideo,contado,eFactura A 2342,UYU,2131,TB
+2023-10-22,219567000003,Uber,Zona America of 38; Canelones,credito,eFactura A 3817,EURO,5000,TB
+2023-10-15,171196946698,Divino,Av 1234; Colonia,nota_credito,eFactura nota de crédito A 500,USD,219,TB
+2023-10-15,171196946698,Divino,Av 1234; Colonia,nota_credito,eFactura nota de crédito A 500,USD,400,TM
+2023-09-15,120434177741,UCU,8 de Octubre 1111; Montevideo,contado,eFactura A 89,USD,250,TB
+2023-09-15,120434177741,UCU,8 de Octubre 1111; Montevideo,contado,eFactura A 89,USD,700,TB
